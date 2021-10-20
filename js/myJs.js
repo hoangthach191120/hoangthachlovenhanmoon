@@ -5,12 +5,12 @@ const textConfig = {
   text4: "Nếu em ko trả lời mà thoát ra tức là muốn làm người yêu anh rùi đó nha :v",
   text5: "Anh mơ à???",
   text6: "Yêu ơi là yêu luôn <3",
-  text7: "lí do em thích anh là gì :vvvv",
+  text7: "Lý do em yêu ơi là yêu luôn anh là gì nè ? lewlew :vvvv",
   text8: "Gửi câu trả lời cho anh <3",
   text9: "Vì anh đẹp trai, tốt bụng nhất đời hehe",
-  text10: "Anh biết mà ^^ Yêu em 3000",
+  text10: "Anh biết mà ^^ Yêu em 3000. I love you to the moon and back ",
   text11:
-    "Chúc em ngày 20/10 vui vẻ, chúc em luôn ngập tràn niềm vui và hạnh phúc và sớm có được anh hí hí :v Còn giờ thì chờ gì nữa mà ko inbox cho anh đi nàooo",
+    "Chúc em ngày 20/10 vui vẻ, chúc em luôn ngập tràn niềm vui và hạnh phúc và sớm có được anh hí hí. Cho anh gửi lời chúc đến cả bà, mẹ, em gái em nữa nhé <3 :v Và đặ biệt tặng em món quà to đùng là anh nè. Còn giờ thì chờ gì nữa mà ko inbox cho anh đi nàooo",
   text12: "Okii lunn <3",
 };
 
